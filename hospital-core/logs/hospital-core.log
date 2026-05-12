@@ -1,0 +1,45 @@
+2026-05-11 13:56:52 INFO  [restartedMain] c.p.h.core.HospitalCoreApplication requestId= tenantId= hospitalId= branchId= userId= - Starting HospitalCoreApplication using Java 17.0.8 with PID 4548 (C:\Users\ms\OneDrive\Desktop\hospital-core\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\hospital-core)
+2026-05-11 13:56:52 DEBUG [restartedMain] c.p.h.core.HospitalCoreApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 13:56:52 INFO  [restartedMain] c.p.h.core.HospitalCoreApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 13:56:52 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 13:56:52 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 13:56:55 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8086 (http)
+2026-05-11 13:56:55 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 13:56:55 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 13:56:55 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 13:56:55 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2277 ms
+2026-05-11 13:56:55 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 695360b5-05d5-474e-8433-79646b781477
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 13:56:55 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 13:56:56 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-11 13:56:56 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8086 (http) with context path '/'
+2026-05-11 13:56:56 INFO  [restartedMain] c.p.h.core.HospitalCoreApplication requestId= tenantId= hospitalId= branchId= userId= - Started HospitalCoreApplication in 4.273 seconds (process running for 5.477)
+2026-05-11 13:57:03 INFO  [http-nio-0.0.0.0-8086-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-11 13:57:03 INFO  [http-nio-0.0.0.0-8086-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Initializing Servlet 'dispatcherServlet'
+2026-05-11 13:57:03 INFO  [http-nio-0.0.0.0-8086-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Completed initialization in 2 ms
+2026-05-11 13:57:03 INFO  [http-nio-0.0.0.0-8086-exec-2] c.p.h.c.s.SecurityConfig$RequestContextFilter requestId=req-branches-001 tenantId= hospitalId= branchId= userId= - Request received. method=GET path=/api/v1/hospital/reference/branches
+2026-05-11 13:57:03 WARN  [http-nio-0.0.0.0-8086-exec-2] c.p.h.c.s.SecurityConfig$JwtAuthFilter requestId=req-branches-001 tenantId= hospitalId= branchId= userId= - JWT verification failed. error=JWT signature does not match locally computed signature. JWT validity cannot be asserted and should not be trusted.
+2026-05-11 13:57:03 INFO  [http-nio-0.0.0.0-8086-exec-2] c.p.h.c.s.SecurityConfig$RequestContextFilter requestId=req-branches-001 tenantId= hospitalId= branchId= userId= - Request completed. method=GET path=/api/v1/hospital/reference/branches status=403 durationMs=234
+2026-05-11 13:58:48 INFO  [http-nio-0.0.0.0-8086-exec-5] c.p.h.c.s.SecurityConfig$RequestContextFilter requestId=req-branches-001 tenantId= hospitalId= branchId= userId= - Request received. method=GET path=/api/v1/hospital/reference/branches
+2026-05-11 13:58:48 INFO  [http-nio-0.0.0.0-8086-exec-5] c.p.hospital.core.service.JwtService requestId=req-branches-001 tenantId= hospitalId= branchId= userId= - Access token verified. userId=1 tenantId=1 hospitalId=1
+2026-05-11 13:58:48 INFO  [http-nio-0.0.0.0-8086-exec-5] c.p.h.c.s.SecurityConfig$JwtAuthFilter requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - JWT verified. userId=1 tenantId=1 hospitalId=1 branchId=1
+2026-05-11 13:58:48 INFO  [http-nio-0.0.0.0-8086-exec-5] c.p.h.c.c.HospitalCoreController requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Branch reference API called.
+2026-05-11 13:58:48 INFO  [http-nio-0.0.0.0-8086-exec-5] c.p.h.c.service.HospitalCoreService requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Fetching branch reference. tenantId=1 hospitalId=1
+2026-05-11 13:58:48 DEBUG [http-nio-0.0.0.0-8086-exec-5] c.p.h.c.r.HospitalCoreRepository requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Fetching branches. tenantId=1 hospitalId=1
+2026-05-11 13:58:48 INFO  [http-nio-0.0.0.0-8086-exec-5] com.zaxxer.hikari.HikariDataSource requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Starting...
+2026-05-11 13:58:49 INFO  [http-nio-0.0.0.0-8086-exec-5] com.zaxxer.hikari.pool.HikariPool requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37ecf2de
+2026-05-11 13:58:49 INFO  [http-nio-0.0.0.0-8086-exec-5] com.zaxxer.hikari.HikariDataSource requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Start completed.
+2026-05-11 13:58:49 INFO  [http-nio-0.0.0.0-8086-exec-5] c.p.h.c.c.HospitalCoreController requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Branch reference API completed. count=1
+2026-05-11 13:58:49 INFO  [http-nio-0.0.0.0-8086-exec-5] c.p.h.c.s.SecurityConfig$RequestContextFilter requestId=req-branches-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Request completed. method=GET path=/api/v1/hospital/reference/branches status=200 durationMs=387
+2026-05-11 15:31:16 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h15m57s218ms40µs200ns).
+2026-05-11 16:26:42 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m24s781ms337µs900ns).
+2026-05-11 17:04:11 INFO  [RMI TCP Connection(104)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 17:04:11 INFO  [RMI TCP Connection(105)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 17:04:11 INFO  [RMI TCP Connection(104)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-11 17:04:11 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-11 17:04:11 INFO  [RMI TCP Connection(104)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown initiated...
+2026-05-11 17:04:11 INFO  [RMI TCP Connection(104)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown completed.

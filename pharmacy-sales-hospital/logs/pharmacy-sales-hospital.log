@@ -1,0 +1,39 @@
+2026-05-11 15:58:13 INFO  [restartedMain] c.p.p.s.h.PharmacySalesHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting PharmacySalesHospitalApplication using Java 17.0.8 with PID 22384 (C:\Users\ms\OneDrive\Desktop\pharmacy-sales-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\pharmacy-sales-hospital)
+2026-05-11 15:58:13 DEBUG [restartedMain] c.p.p.s.h.PharmacySalesHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 15:58:13 INFO  [restartedMain] c.p.p.s.h.PharmacySalesHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 15:58:13 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 15:58:13 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 15:58:16 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8094 (http)
+2026-05-11 15:58:16 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 15:58:16 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 15:58:16 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 15:58:16 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2932 ms
+2026-05-11 15:58:16 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 0b22a05d-f60f-4260-8c2e-6029c1bfb4c4
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 15:58:16 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 15:58:17 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-11 15:58:17 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8094 (http) with context path '/'
+2026-05-11 15:58:17 INFO  [restartedMain] c.p.p.s.h.PharmacySalesHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Started PharmacySalesHospitalApplication in 5.326 seconds (process running for 6.978)
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Initializing Servlet 'dispatcherServlet'
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Completed initialization in 2 ms
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] c.p.p.s.h.s.SecurityConfig$RequestContextFilter requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId= hospitalId= branchId= userId= - Request received. method=GET path=/api/v1/hospital/pharmacy-sales
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] c.p.p.s.hospital.service.JwtService requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId= hospitalId= branchId= userId= - Access token verified. userId=1 tenantId=1 hospitalId=1
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] c.p.p.s.h.s.SecurityConfig$JwtAuthFilter requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - JWT verified. userId=1 tenantId=1 hospitalId=1 branchId=1
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] c.p.p.s.h.c.PharmacySalesController requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - Pharmacy sale list API called.
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] c.p.p.s.h.s.PharmacySalesService requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - List pharmacy sales request. tenantId=1 hospitalId=1 patientId=null prescriptionId=null
+2026-05-11 15:59:22 INFO  [http-nio-0.0.0.0-8094-exec-2] com.zaxxer.hikari.HikariDataSource requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Starting...
+2026-05-11 15:59:23 INFO  [http-nio-0.0.0.0-8094-exec-2] com.zaxxer.hikari.pool.HikariPool requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d64f8f0
+2026-05-11 15:59:23 INFO  [http-nio-0.0.0.0-8094-exec-2] com.zaxxer.hikari.HikariDataSource requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Start completed.
+2026-05-11 15:59:23 INFO  [http-nio-0.0.0.0-8094-exec-2] c.p.p.s.h.c.PharmacySalesController requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - Pharmacy sale list API completed. count=1
+2026-05-11 15:59:23 INFO  [http-nio-0.0.0.0-8094-exec-2] c.p.p.s.h.s.SecurityConfig$RequestContextFilter requestId=0ef78e65-a416-4c94-aaec-9f74044e675e tenantId=1 hospitalId=1 branchId=1 userId=1 - Request completed. method=GET path=/api/v1/hospital/pharmacy-sales status=200 durationMs=1034
+2026-05-11 16:26:48 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m24s804ms400µs100ns).
+2026-05-11 17:04:03 INFO  [RMI TCP Connection(46)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 17:04:03 INFO  [RMI TCP Connection(46)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-11 17:04:03 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-11 17:04:03 INFO  [RMI TCP Connection(46)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown initiated...
+2026-05-11 17:04:03 INFO  [RMI TCP Connection(46)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown completed.

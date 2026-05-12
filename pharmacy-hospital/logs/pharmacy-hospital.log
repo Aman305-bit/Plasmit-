@@ -1,0 +1,75 @@
+2026-05-11 15:47:52 INFO  [restartedMain] c.p.p.h.PharmacyHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting PharmacyHospitalApplication using Java 17.0.8 with PID 17012 (C:\Users\ms\OneDrive\Desktop\pharmacy-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\pharmacy-hospital)
+2026-05-11 15:47:52 DEBUG [restartedMain] c.p.p.h.PharmacyHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 15:47:52 INFO  [restartedMain] c.p.p.h.PharmacyHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 15:47:52 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 15:47:52 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 15:47:54 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8093 (http)
+2026-05-11 15:47:54 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 15:47:54 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 15:47:54 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 15:47:54 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2418 ms
+2026-05-11 15:47:55 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: c22e2723-fde2-4e3f-bfea-b5115fd7f2db
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 15:47:55 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 15:47:56 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-11 15:47:56 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8093 (http) with context path '/'
+2026-05-11 15:47:56 INFO  [restartedMain] c.p.p.h.PharmacyHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Started PharmacyHospitalApplication in 4.642 seconds (process running for 5.861)
+2026-05-11 15:48:39 INFO  [restartedMain] c.p.p.h.PharmacyHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting PharmacyHospitalApplication using Java 17.0.8 with PID 304 (C:\Users\ms\OneDrive\Desktop\pharmacy-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\pharmacy-hospital)
+2026-05-11 15:48:39 DEBUG [restartedMain] c.p.p.h.PharmacyHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 15:48:39 INFO  [restartedMain] c.p.p.h.PharmacyHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 15:48:39 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 15:48:39 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 15:48:42 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8093 (http)
+2026-05-11 15:48:42 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 15:48:42 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 15:48:42 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 15:48:42 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2329 ms
+2026-05-11 15:48:42 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: a56b3041-78db-4c7e-ba90-b2e265063c1f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 15:48:42 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 15:48:43 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-11 15:48:43 WARN  [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-05-11 15:48:43 INFO  [restartedMain] o.s.b.a.l.ConditionEvaluationReportLogger requestId= tenantId= hospitalId= branchId= userId= - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-05-11 15:48:43 ERROR [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter requestId= tenantId= hospitalId= branchId= userId= - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8093 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8093 or configure this application to listen on another port.
+
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Initializing Servlet 'dispatcherServlet'
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Completed initialization in 1 ms
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] c.p.p.h.s.SecurityConfig$RequestContextFilter requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId= hospitalId= branchId= userId= - Request received. method=GET path=/api/v1/hospital/pharmacy/categories
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] c.p.p.hospital.service.JwtService requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId= hospitalId= branchId= userId= - Access token verified. userId=1 tenantId=1 hospitalId=1
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] c.p.p.h.s.SecurityConfig$JwtAuthFilter requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - JWT verified. userId=1 tenantId=1 hospitalId=1 branchId=1
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] c.p.p.h.c.PharmacyController requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - Medicine categories API called.
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] c.p.p.h.service.PharmacyService requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - List medicine categories request. tenantId=1 hospitalId=1 branchId=1
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] com.zaxxer.hikari.HikariDataSource requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Starting...
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] com.zaxxer.hikari.pool.HikariPool requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@27def006
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] com.zaxxer.hikari.HikariDataSource requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - HikariPool-1 - Start completed.
+2026-05-11 15:49:42 INFO  [http-nio-0.0.0.0-8093-exec-1] c.p.p.h.c.PharmacyController requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - Medicine categories API completed. count=4
+2026-05-11 15:49:43 INFO  [http-nio-0.0.0.0-8093-exec-1] c.p.p.h.s.SecurityConfig$RequestContextFilter requestId=dad4cdc0-2f01-4fbb-9918-c76d793eaf17 tenantId=1 hospitalId=1 branchId=1 userId=1 - Request completed. method=GET path=/api/v1/hospital/pharmacy/categories status=200 durationMs=664
+2026-05-11 16:26:37 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m24s781ms100µs).
+2026-05-11 17:04:04 INFO  [RMI TCP Connection(56)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 17:04:04 INFO  [RMI TCP Connection(56)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-11 17:04:04 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-11 17:04:04 INFO  [RMI TCP Connection(56)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown initiated...
+2026-05-11 17:04:04 INFO  [RMI TCP Connection(56)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown completed.

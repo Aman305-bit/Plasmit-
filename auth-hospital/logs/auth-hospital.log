@@ -1,0 +1,318 @@
+2026-05-11 13:35:33 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting AuthHospitalApplication using Java 17.0.8 with PID 16892 (C:\Users\ms\OneDrive\Desktop\auth-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\auth-hospital)
+2026-05-11 13:35:33 DEBUG [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 13:35:33 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 13:35:33 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8084 (http)
+2026-05-11 13:35:33 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 13:35:33 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 13:35:33 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 13:35:33 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 648 ms
+2026-05-11 13:35:33 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 9b4f35a0-2a80-47a9-b438-15e02638ed92
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 13:35:33 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 13:35:34 INFO  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - LiveReload server is running on port 35729
+2026-05-11 13:35:34 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8084 (http) with context path '/'
+2026-05-11 13:35:34 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Started AuthHospitalApplication in 1.214 seconds (process running for 929.037)
+2026-05-11 13:35:34 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-11 13:35:59 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting AuthHospitalApplication using Java 17.0.8 with PID 22016 (C:\Users\ms\OneDrive\Desktop\auth-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\auth-hospital)
+2026-05-11 13:35:59 DEBUG [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 13:35:59 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 13:35:59 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 13:35:59 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 13:36:02 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8084 (http)
+2026-05-11 13:36:02 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 13:36:02 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 13:36:02 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 13:36:02 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2497 ms
+2026-05-11 13:36:02 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 67a77e5e-f6de-46ad-8f46-3748a48229d6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 13:36:02 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 13:36:03 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-11 13:36:03 WARN  [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-05-11 13:36:03 INFO  [restartedMain] o.s.b.a.l.ConditionEvaluationReportLogger requestId= tenantId= hospitalId= branchId= userId= - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-05-11 13:36:03 ERROR [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter requestId= tenantId= hospitalId= branchId= userId= - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8084 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8084 or configure this application to listen on another port.
+
+2026-05-11 13:36:12 INFO  [RMI TCP Connection(19)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 13:36:12 INFO  [RMI TCP Connection(19)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-11 13:36:13 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-11 13:36:28 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting AuthHospitalApplication using Java 17.0.8 with PID 20448 (C:\Users\ms\OneDrive\Desktop\auth-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\auth-hospital)
+2026-05-11 13:36:28 DEBUG [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 13:36:28 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 13:36:28 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 13:36:28 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 13:36:30 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8084 (http)
+2026-05-11 13:36:30 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 13:36:30 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 13:36:31 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 13:36:31 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2592 ms
+2026-05-11 13:36:31 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 402b02a4-ff17-4540-bc48-0e2dea1f5ba5
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 13:36:31 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 13:36:32 INFO  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - LiveReload server is running on port 35729
+2026-05-11 13:36:32 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8084 (http) with context path '/'
+2026-05-11 13:36:32 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Started AuthHospitalApplication in 5.089 seconds (process running for 6.492)
+2026-05-11 13:37:16 INFO  [http-nio-0.0.0.0-8084-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-11 13:37:16 INFO  [http-nio-0.0.0.0-8084-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Initializing Servlet 'dispatcherServlet'
+2026-05-11 13:37:16 INFO  [http-nio-0.0.0.0-8084-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Completed initialization in 9 ms
+2026-05-11 13:37:17 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.s.SecurityConfig$RequestContextFilter requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Request received. method=POST path=/api/v1/auth/login
+2026-05-11 13:37:17 WARN  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.s.SecurityConfig$JwtAuthFilter requestId=req-login-001 tenantId= hospitalId= branchId= userId= - JWT verification failed. error=JWT expired 82680396 milliseconds ago at 2026-05-10T09:09:17.000Z. Current time: 2026-05-11T08:07:17.396Z. Allowed clock skew: 0 milliseconds.
+2026-05-11 13:37:17 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.controller.AuthController requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Login API called.
+2026-05-11 13:37:17 INFO  [http-nio-0.0.0.0-8084-exec-2] com.zaxxer.hikari.HikariDataSource requestId=req-login-001 tenantId= hospitalId= branchId= userId= - HikariPool-1 - Starting...
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] com.zaxxer.hikari.pool.HikariPool requestId=req-login-001 tenantId= hospitalId= branchId= userId= - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e24080c
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] com.zaxxer.hikari.HikariDataSource requestId=req-login-001 tenantId= hospitalId= branchId= userId= - HikariPool-1 - Start completed.
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.hospital.service.AuthService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Login request received. email=hospital.admin@demo.com
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.repository.UserRepository requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Finding active hospital user by email.
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL query
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL statement [SELECT
+    u.id,
+    u.tenant_id,
+    u.hospital_id,
+    u.branch_id,
+    u.department_id,
+    u.full_name,
+    u.email,
+    u.phone,
+    u.password_hash,
+    u.user_type,
+    u.status,
+    u.last_login_at,
+    h.hospital_name,
+    b.branch_name,
+    d.department_name,
+    r.role_code,
+    r.role_name
+FROM users u
+INNER JOIN hospitals h
+    ON h.id = u.hospital_id
+    AND h.tenant_id = u.tenant_id
+    AND h.status = 'ACTIVE'
+    AND h.is_deleted = 0
+LEFT JOIN hospital_branches b
+    ON b.id = u.branch_id
+    AND b.tenant_id = u.tenant_id
+    AND b.hospital_id = u.hospital_id
+    AND b.is_deleted = 0
+LEFT JOIN departments d
+    ON d.id = u.department_id
+    AND d.tenant_id = u.tenant_id
+    AND d.hospital_id = u.hospital_id
+    AND d.is_deleted = 0
+INNER JOIN user_roles ur
+    ON ur.user_id = u.id
+    AND ur.tenant_id = u.tenant_id
+    AND ur.hospital_id = u.hospital_id
+INNER JOIN roles r
+    ON r.id = ur.role_id
+    AND r.tenant_id = u.tenant_id
+    AND r.hospital_id = u.hospital_id
+    AND r.status = 'ACTIVE'
+    AND r.is_deleted = 0
+WHERE LOWER(u.email) = LOWER(?)
+  AND u.status = 'ACTIVE'
+  AND u.is_deleted = 0
+LIMIT 1
+]
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL query
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL statement [SELECT p.permission_key
+FROM permissions p
+INNER JOIN role_permissions rp
+    ON rp.permission_id = p.id
+INNER JOIN roles r
+    ON r.id = rp.role_id
+WHERE rp.tenant_id = ?
+  AND rp.hospital_id = ?
+  AND r.role_code = ?
+  AND r.status = 'ACTIVE'
+  AND r.is_deleted = 0
+  AND p.status = 'ACTIVE'
+ORDER BY p.permission_key
+]
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.auth.hospital.service.JwtService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Generating token. tokenType=ACCESS userId=1 tenantId=1 hospitalId=1
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.auth.hospital.service.JwtService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Generating token. tokenType=REFRESH userId=1 tenantId=1 hospitalId=1
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL update
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL statement [UPDATE users
+SET last_login_at = NOW(),
+    failed_login_attempts = 0,
+    updated_at = NOW()
+WHERE id = ?
+]
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL update
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL statement [INSERT INTO login_activity (
+    tenant_id,
+    hospital_id,
+    user_id,
+    email,
+    login_status,
+    failure_reason,
+    ip_address,
+    user_agent,
+    created_at
+)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, NOW())
+]
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.StatementCreatorUtils requestId=req-login-001 tenantId= hospitalId= branchId= userId= - JDBC getParameterType call failed - using fallback method instead: java.sql.SQLException: Parameter metadata not available for the given statement
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL update
+2026-05-11 13:37:18 DEBUG [http-nio-0.0.0.0-8084-exec-2] o.s.jdbc.core.JdbcTemplate requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Executing prepared SQL statement [INSERT INTO audit_logs (
+    tenant_id,
+    hospital_id,
+    branch_id,
+    actor_id,
+    event,
+    target_type,
+    target_id,
+    detail,
+    request_id,
+    ip_address,
+    user_agent,
+    status,
+    category,
+    severity,
+    created_at
+)
+VALUES (?, ?, ?, ?, ?, 'USER', ?, ?, ?, ?, ?, 'SUCCESS', 'AUTH', 'LOW', NOW())
+]
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.hospital.service.AuthService requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Login successful. userId=1 tenantId=1 hospitalId=1 branchId=1
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.controller.AuthController requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Login API completed.
+2026-05-11 13:37:18 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.s.SecurityConfig$RequestContextFilter requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Request completed. method=POST path=/api/v1/auth/login status=200 durationMs=1628
+2026-05-11 13:49:01 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-11 13:49:01 INFO  [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-11 13:49:02 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-11 13:49:02 INFO  [Thread-5] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown initiated...
+2026-05-11 13:49:02 INFO  [Thread-5] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown completed.
+2026-05-11 13:49:02 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting AuthHospitalApplication using Java 17.0.8 with PID 20448 (C:\Users\ms\OneDrive\Desktop\auth-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\auth-hospital)
+2026-05-11 13:49:02 DEBUG [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 13:49:02 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 13:49:03 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8084 (http)
+2026-05-11 13:49:03 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 13:49:03 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 13:49:03 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 13:49:03 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 1354 ms
+2026-05-11 13:49:04 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 78860ce4-0742-4953-9642-4b5d2073d2ec
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 13:49:04 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 13:49:04 INFO  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - LiveReload server is running on port 35729
+2026-05-11 13:49:04 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8084 (http) with context path '/'
+2026-05-11 13:49:04 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Started AuthHospitalApplication in 2.541 seconds (process running for 758.861)
+2026-05-11 13:49:04 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-11 13:49:23 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting AuthHospitalApplication using Java 17.0.8 with PID 19152 (C:\Users\ms\OneDrive\Desktop\auth-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\auth-hospital)
+2026-05-11 13:49:23 DEBUG [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 13:49:23 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 13:49:23 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 13:49:23 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 13:49:25 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8084 (http)
+2026-05-11 13:49:25 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 13:49:25 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 13:49:26 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 13:49:26 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2501 ms
+2026-05-11 13:49:26 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: f826e7a6-a2a9-4130-a409-ff58bb1191ba
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 13:49:26 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 13:49:27 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-11 13:49:27 WARN  [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-05-11 13:49:27 INFO  [restartedMain] o.s.b.a.l.ConditionEvaluationReportLogger requestId= tenantId= hospitalId= branchId= userId= - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-05-11 13:49:27 ERROR [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter requestId= tenantId= hospitalId= branchId= userId= - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8084 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8084 or configure this application to listen on another port.
+
+2026-05-11 13:49:31 INFO  [RMI TCP Connection(15)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 13:49:31 INFO  [RMI TCP Connection(15)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-11 13:49:32 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-11 13:49:43 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Starting AuthHospitalApplication using Java 17.0.8 with PID 21292 (C:\Users\ms\OneDrive\Desktop\auth-hospital\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\auth-hospital)
+2026-05-11 13:49:43 DEBUG [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-11 13:49:43 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-11 13:49:43 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2026-05-11 13:49:43 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor requestId= tenantId= hospitalId= branchId= userId= - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2026-05-11 13:49:45 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8084 (http)
+2026-05-11 13:49:45 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-11 13:49:45 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-11 13:49:45 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-11 13:49:45 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2135 ms
+2026-05-11 13:49:46 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: a0f14e3b-b4d0-4a4a-ad2d-b24467ab48ed
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-11 13:49:46 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-11 13:49:47 INFO  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - LiveReload server is running on port 35729
+2026-05-11 13:49:47 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8084 (http) with context path '/'
+2026-05-11 13:49:47 INFO  [restartedMain] c.p.a.h.AuthHospitalApplication requestId= tenantId= hospitalId= branchId= userId= - Started AuthHospitalApplication in 4.359 seconds (process running for 5.413)
+2026-05-11 13:50:30 INFO  [http-nio-0.0.0.0-8084-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-11 13:50:30 INFO  [http-nio-0.0.0.0-8084-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Initializing Servlet 'dispatcherServlet'
+2026-05-11 13:50:30 INFO  [http-nio-0.0.0.0-8084-exec-2] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Completed initialization in 2 ms
+2026-05-11 13:50:30 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.s.SecurityConfig$RequestContextFilter requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Request received. method=POST path=/api/v1/auth/login
+2026-05-11 13:50:30 WARN  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.s.SecurityConfig$JwtAuthFilter requestId=req-login-001 tenantId= hospitalId= branchId= userId= - JWT verification failed. error=JWT expired 83473699 milliseconds ago at 2026-05-10T09:09:17.000Z. Current time: 2026-05-11T08:20:30.699Z. Allowed clock skew: 0 milliseconds.
+2026-05-11 13:50:30 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.controller.AuthController requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Login API called.
+2026-05-11 13:50:30 INFO  [http-nio-0.0.0.0-8084-exec-2] com.zaxxer.hikari.HikariDataSource requestId=req-login-001 tenantId= hospitalId= branchId= userId= - HikariPool-1 - Starting...
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] com.zaxxer.hikari.pool.HikariPool requestId=req-login-001 tenantId= hospitalId= branchId= userId= - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@17948715
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] com.zaxxer.hikari.HikariDataSource requestId=req-login-001 tenantId= hospitalId= branchId= userId= - HikariPool-1 - Start completed.
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.hospital.service.AuthService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Login request received. email=hospital.admin@demo.com
+2026-05-11 13:50:31 DEBUG [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.repository.UserRepository requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Finding active hospital user by email.
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.auth.hospital.service.JwtService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Generating token. tokenType=ACCESS userId=1 tenantId=1 hospitalId=1
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.auth.hospital.service.JwtService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Generating token. tokenType=REFRESH userId=1 tenantId=1 hospitalId=1
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.hospital.service.AuthService requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Login successful. userId=1 tenantId=1 hospitalId=1 branchId=1
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.controller.AuthController requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Login API completed.
+2026-05-11 13:50:31 INFO  [http-nio-0.0.0.0-8084-exec-2] c.p.a.h.s.SecurityConfig$RequestContextFilter requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Request completed. method=POST path=/api/v1/auth/login status=200 durationMs=1450
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.a.h.s.SecurityConfig$RequestContextFilter requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Request received. method=POST path=/api/v1/auth/login
+2026-05-11 13:54:41 WARN  [http-nio-0.0.0.0-8084-exec-5] c.p.a.h.s.SecurityConfig$JwtAuthFilter requestId=req-login-001 tenantId= hospitalId= branchId= userId= - JWT verification failed. error=JWT expired 83724247 milliseconds ago at 2026-05-10T09:09:17.000Z. Current time: 2026-05-11T08:24:41.247Z. Allowed clock skew: 0 milliseconds.
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.a.h.controller.AuthController requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Login API called.
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.a.hospital.service.AuthService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Login request received. email=hospital.admin@demo.com
+2026-05-11 13:54:41 DEBUG [http-nio-0.0.0.0-8084-exec-5] c.p.a.h.repository.UserRepository requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Finding active hospital user by email.
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.auth.hospital.service.JwtService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Generating token. tokenType=ACCESS userId=1 tenantId=1 hospitalId=1
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.auth.hospital.service.JwtService requestId=req-login-001 tenantId= hospitalId= branchId= userId= - Generating token. tokenType=REFRESH userId=1 tenantId=1 hospitalId=1
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.a.hospital.service.AuthService requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Login successful. userId=1 tenantId=1 hospitalId=1 branchId=1
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.a.h.controller.AuthController requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Login API completed.
+2026-05-11 13:54:41 INFO  [http-nio-0.0.0.0-8084-exec-5] c.p.a.h.s.SecurityConfig$RequestContextFilter requestId=req-login-001 tenantId=1 hospitalId=1 branchId=1 userId=1 - Request completed. method=POST path=/api/v1/auth/login status=200 durationMs=208
+2026-05-11 15:31:29 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h15m57s204ms100µs800ns).
+2026-05-11 16:26:24 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m24s963ms295µs600ns).
+2026-05-11 17:04:11 INFO  [RMI TCP Connection(99)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 17:04:11 INFO  [RMI TCP Connection(101)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-11 17:04:12 INFO  [RMI TCP Connection(99)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-11 17:04:12 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-11 17:04:12 INFO  [RMI TCP Connection(99)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown initiated...
+2026-05-11 17:04:12 INFO  [RMI TCP Connection(99)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,728 @@
+2026-05-15 09:45:49 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10h10m27s130ms409µs400ns).
+2026-05-15 11:36:32 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m38s118ms553µs900ns).
+2026-05-15 11:42:49 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m16s453ms454µs100ns).
+2026-05-15 12:06:07 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m48s292ms361µs200ns).
+2026-05-15 12:32:38 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m613ms279µs500ns).
+2026-05-15 13:56:08 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m28s30ms784µs900ns).
+2026-05-15 14:59:17 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m14s47ms441µs900ns).
+2026-05-15 15:21:41 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:21:41 INFO  [Thread-1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:21:42 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:21:42 INFO  [Thread-1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown initiated...
+2026-05-15 15:21:42 INFO  [Thread-1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown completed.
+2026-05-15 15:21:44 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:21:44 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:21:44 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:21:45 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:21:45 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:21:45 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:21:46 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:21:46 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 1461 ms
+2026-05-15 15:21:46 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:21:46 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: ffc38ae0-3fa5-4ea7-baa5-1f4e798fefa6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:21:46 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:21:48 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:21:48 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:21:48 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 3.998 seconds (process running for 74499.654)
+2026-05-15 15:21:48 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:22:22 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:22:22 INFO  [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:22:23 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:22:23 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:22:23 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:22:23 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:22:25 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:22:25 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:22:25 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:22:25 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:22:25 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 2050 ms
+2026-05-15 15:22:25 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:22:26 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 15496367-a9c2-45d4-81d7-e754e79de5fb
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:22:26 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:22:26 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:22:27 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:22:27 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 3.522 seconds (process running for 74538.55)
+2026-05-15 15:22:27 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:22:55 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:22:55 INFO  [Thread-9] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:22:55 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:22:55 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:22:55 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:22:55 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:22:56 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:22:56 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:22:56 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:22:56 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:22:56 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 681 ms
+2026-05-15 15:22:56 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:22:56 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: c42a4cb3-9dca-40ff-b627-f4b6bb6b1a4a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:22:56 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:22:57 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:22:57 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:22:57 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.568 seconds (process running for 74568.652)
+2026-05-15 15:22:57 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:23:32 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:23:32 INFO  [Thread-13] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:23:33 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:23:33 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:23:33 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:23:33 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:23:34 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:23:34 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:23:34 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:23:34 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:23:34 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 891 ms
+2026-05-15 15:23:34 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:23:34 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 44084757-43b0-4e88-9b8a-09480129f126
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:23:34 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:23:34 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:23:34 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:23:34 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.583 seconds (process running for 74606.031)
+2026-05-15 15:23:34 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:24:01 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:24:01 INFO  [Thread-17] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:24:02 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:24:02 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:24:02 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:24:02 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:24:03 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:24:03 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:24:03 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:24:03 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:24:03 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 695 ms
+2026-05-15 15:24:03 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:24:03 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 50a947f0-2a09-4644-9b9f-10d52c322255
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:24:03 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:24:03 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:24:03 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:24:03 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.341 seconds (process running for 74635.163)
+2026-05-15 15:24:03 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:24:43 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:24:43 INFO  [Thread-21] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:24:43 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:24:43 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:24:43 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:24:43 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:24:44 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:24:44 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:24:44 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:24:44 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:24:44 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 650 ms
+2026-05-15 15:24:44 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:24:44 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 428d1b6c-5edf-4d14-bb8e-843e46ff13ac
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:24:44 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:24:44 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:24:45 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:24:45 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.312 seconds (process running for 74676.334)
+2026-05-15 15:24:45 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:25:13 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:25:13 INFO  [Thread-25] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:25:13 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:25:13 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:25:13 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:25:13 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:25:15 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:25:15 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:25:15 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:25:15 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:25:15 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 1357 ms
+2026-05-15 15:25:15 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:25:15 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: cdaa217c-34c2-4f0d-a9fd-324481edf733
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:25:15 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:25:15 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:25:15 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:25:15 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 2.147 seconds (process running for 74707.098)
+2026-05-15 15:25:15 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:25:49 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:25:49 INFO  [Thread-29] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:25:50 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:25:50 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:25:50 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:25:50 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:25:50 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:25:50 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:25:50 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:25:50 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:25:50 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 504 ms
+2026-05-15 15:25:50 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:25:50 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 5fbf9b73-ca04-406f-82ad-8ac9712c0c0d
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:25:50 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:25:51 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:25:51 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:25:51 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 0.925 seconds (process running for 74742.547)
+2026-05-15 15:25:51 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:26:26 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:26:26 INFO  [Thread-33] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:26:26 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:26:26 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:26:26 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:26:26 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:26:27 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:26:27 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:26:27 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:26:27 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:26:27 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 643 ms
+2026-05-15 15:26:27 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:26:27 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: b79c8931-58d8-47a5-920c-64ed5bc975f5
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:26:27 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:26:28 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:26:28 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:26:28 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.204 seconds (process running for 74779.441)
+2026-05-15 15:26:28 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:27:45 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:27:45 INFO  [Thread-37] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:27:45 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:27:45 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:27:45 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:27:45 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:27:46 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:27:46 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:27:46 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:27:46 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:27:46 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 777 ms
+2026-05-15 15:27:46 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:27:46 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: ef7cde03-fb7e-4782-867e-449febfa3f3a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:27:46 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:27:47 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:27:47 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:27:47 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.477 seconds (process running for 74858.661)
+2026-05-15 15:27:47 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:28:44 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:28:44 INFO  [Thread-41] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:28:45 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:28:45 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:28:45 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:28:45 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:28:45 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:28:45 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:28:45 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:28:46 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:28:46 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 648 ms
+2026-05-15 15:28:46 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:28:46 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: ba1d028a-49db-4e62-9d2a-74cd1b62c490
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:28:46 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:28:46 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:28:46 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:28:46 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.196 seconds (process running for 74917.836)
+2026-05-15 15:28:46 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:29:23 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:29:23 INFO  [Thread-45] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:29:24 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:29:24 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:29:24 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:29:24 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:29:24 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:29:24 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:29:24 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:29:24 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:29:24 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 635 ms
+2026-05-15 15:29:24 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:29:24 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 94b8141a-4ddd-4b6b-ae01-1c83e2213b52
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:29:24 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:29:25 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:29:25 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:29:25 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.191 seconds (process running for 74956.597)
+2026-05-15 15:29:25 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:29:53 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:29:53 INFO  [Thread-49] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:29:53 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:29:53 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:29:53 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:29:53 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:29:54 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:29:54 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:29:54 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:29:54 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:29:54 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 647 ms
+2026-05-15 15:29:54 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:29:54 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 1d2207ec-6c00-4d97-bc4c-ee567b226ad6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:29:54 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:29:55 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:29:55 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:29:55 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.309 seconds (process running for 74986.472)
+2026-05-15 15:29:55 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:30:36 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:30:36 INFO  [Thread-53] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:30:36 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:30:37 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:30:37 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:30:37 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:30:37 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:30:37 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:30:37 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:30:37 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:30:37 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 786 ms
+2026-05-15 15:30:37 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:30:38 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 71c1d2ba-7474-409a-8c3c-2c75a05eef20
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:30:38 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:30:38 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:30:38 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:30:38 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.778 seconds (process running for 75030.145)
+2026-05-15 15:30:38 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:31:04 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:31:04 INFO  [Thread-57] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:31:05 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:31:05 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:31:05 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:31:05 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:31:06 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:31:06 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:31:06 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:31:06 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:31:06 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 646 ms
+2026-05-15 15:31:06 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:31:06 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 81e3e5ca-1634-4df9-acf8-84d7595067d2
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:31:06 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:31:06 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:31:07 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:31:07 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.501 seconds (process running for 75058.357)
+2026-05-15 15:31:07 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:31:48 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:31:48 INFO  [Thread-61] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:31:49 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:31:49 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:31:49 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:31:49 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:31:49 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:31:49 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:31:49 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:31:49 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:31:49 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 692 ms
+2026-05-15 15:31:49 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:31:50 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 0d8f4c74-3e17-489e-9a92-4985b7798965
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:31:50 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:31:50 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:31:51 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:31:51 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.938 seconds (process running for 75102.406)
+2026-05-15 15:31:51 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:32:23 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:32:23 INFO  [Thread-65] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:32:23 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:32:23 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:32:23 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:32:23 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:32:24 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:32:24 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:32:24 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:32:24 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:32:24 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 675 ms
+2026-05-15 15:32:24 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:32:24 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 2491c962-f4ae-415d-bf76-9af41209e5e4
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:32:24 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:32:25 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:32:25 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:32:25 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.617 seconds (process running for 75136.758)
+2026-05-15 15:32:25 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:33:01 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:33:01 INFO  [Thread-69] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:33:01 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:33:01 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:33:01 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:33:01 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:33:01 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:33:01 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:33:01 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:33:02 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:33:02 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 526 ms
+2026-05-15 15:33:02 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:33:02 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 769997ef-b7c5-4763-a923-e33feec6d3d8
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:33:02 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:33:02 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:33:02 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:33:02 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.01 seconds (process running for 75173.763)
+2026-05-15 15:33:02 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:33:48 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:33:48 INFO  [Thread-73] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:33:48 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:33:48 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:33:48 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:33:48 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:33:49 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:33:49 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:33:49 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:33:49 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:33:49 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 674 ms
+2026-05-15 15:33:49 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:33:49 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 4dc03515-ab90-483f-ba01-c2470fe7c7ae
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:33:49 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:33:50 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:33:50 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:33:50 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.471 seconds (process running for 75221.688)
+2026-05-15 15:33:50 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:34:22 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:34:22 INFO  [Thread-77] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:34:23 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:34:23 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:34:23 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:34:23 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:34:24 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:34:24 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:34:24 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:34:24 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:34:24 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 970 ms
+2026-05-15 15:34:24 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:34:24 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: b104d0a4-d27d-4bed-943e-98c7dee24548
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:34:24 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:34:25 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:34:25 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:34:25 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.822 seconds (process running for 75256.505)
+2026-05-15 15:34:25 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:34:58 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:34:58 INFO  [Thread-81] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:34:59 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:34:59 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:34:59 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:34:59 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:35:00 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:35:00 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:35:00 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:35:00 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:35:00 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 634 ms
+2026-05-15 15:35:00 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:35:00 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: b1ac8f39-83e1-4f9d-b11b-99ad6d0300c6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:35:00 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:35:00 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:35:01 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:35:01 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.423 seconds (process running for 75292.382)
+2026-05-15 15:35:01 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:35:34 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:35:34 INFO  [Thread-85] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:35:34 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:35:34 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:35:34 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:35:34 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:35:35 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:35:35 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:35:35 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:35:35 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:35:35 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 580 ms
+2026-05-15 15:35:35 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:35:35 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 617dd4d8-d442-4ce7-b833-c85671174f65
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:35:35 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:35:35 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:35:35 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:35:35 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.099 seconds (process running for 75327.143)
+2026-05-15 15:35:35 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:38:46 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:38:46 INFO  [Thread-89] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:38:46 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:38:47 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:38:47 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:38:47 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:38:47 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:38:47 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:38:47 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:38:47 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:38:47 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 665 ms
+2026-05-15 15:38:47 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:38:47 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 207286b0-78cd-4197-ad32-6ca057009306
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:38:47 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:38:48 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:38:48 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:38:48 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.29 seconds (process running for 75519.618)
+2026-05-15 15:38:48 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:39:28 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:39:28 INFO  [Thread-93] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:39:29 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:39:29 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:39:29 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:39:29 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:39:29 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:39:29 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:39:29 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:39:29 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:39:29 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 499 ms
+2026-05-15 15:39:29 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:39:29 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 77bf9561-c081-4f56-8cdd-4687f82e456b
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:39:29 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:39:30 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:39:30 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:39:30 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.006 seconds (process running for 75561.617)
+2026-05-15 15:39:30 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:40:26 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:40:26 INFO  [Thread-97] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:40:26 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:40:26 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:40:26 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:40:26 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:40:27 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:40:27 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:40:27 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:40:28 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:40:28 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 1146 ms
+2026-05-15 15:40:28 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:40:28 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 7d3f6443-b575-4c54-ad1d-3904625bd852
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:40:28 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:40:28 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:40:28 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:40:28 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 2.058 seconds (process running for 75620.186)
+2026-05-15 15:40:28 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:41:13 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 2 class path changes (1 addition, 0 deletions, 1 modification)
+2026-05-15 15:41:13 INFO  [Thread-101] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:41:13 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:41:14 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:41:14 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:41:14 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:41:14 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:41:14 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:41:14 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:41:14 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:41:14 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 702 ms
+2026-05-15 15:41:14 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:41:15 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: e013dc6b-1e90-466c-8714-1621b977d6bb
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:41:15 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:41:15 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:41:15 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:41:15 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.261 seconds (process running for 75666.608)
+2026-05-15 15:41:15 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:42:56 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:42:56 INFO  [Thread-105] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:42:57 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:42:57 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:42:57 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:42:57 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:42:58 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:42:58 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:42:58 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:42:58 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:42:58 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 619 ms
+2026-05-15 15:42:58 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:42:58 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: dbf3fe68-c69f-4a50-9db0-2955dd979006
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:42:58 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:42:58 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:42:58 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:42:58 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.311 seconds (process running for 75770.025)
+2026-05-15 15:42:58 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:43:38 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:43:38 INFO  [Thread-109] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:43:38 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:43:38 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:43:38 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:43:38 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:43:39 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:43:39 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:43:39 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:43:39 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:43:39 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 503 ms
+2026-05-15 15:43:39 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:43:39 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 53a75ce3-7b7a-4f85-918d-8b099c8a28b6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:43:39 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:43:39 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:43:39 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:43:39 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 0.942 seconds (process running for 75811.142)
+2026-05-15 15:43:39 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:47:53 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2026-05-15 15:47:53 INFO  [Thread-113] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:47:53 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:47:53 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:47:53 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:47:53 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:47:54 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:47:54 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:47:54 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:47:54 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:47:54 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 789 ms
+2026-05-15 15:47:54 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:47:54 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 4c52b8c9-c50d-40ce-bd9e-afa3735899b6
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:47:54 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:47:55 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:47:55 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:47:55 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.428 seconds (process running for 76066.574)
+2026-05-15 15:47:55 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:48:50 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:48:50 INFO  [Thread-117] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:48:50 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:48:50 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:48:50 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:48:50 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:48:51 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:48:51 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:48:51 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:48:51 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:48:51 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 509 ms
+2026-05-15 15:48:51 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:48:51 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 784ba0da-d81e-44a2-ae9c-1cb5e70540b1
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:48:51 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:48:51 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:48:51 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:48:51 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 0.923 seconds (process running for 76123.193)
+2026-05-15 15:48:51 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:50:27 INFO  [File Watcher] o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener requestId= tenantId= hospitalId= branchId= userId= - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2026-05-15 15:50:27 INFO  [Thread-121] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-15 15:50:28 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-15 15:50:28 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Starting DiagnosticReportServiceApplication using Java 17.0.8 with PID 21892 (C:\Users\ms\OneDrive\Desktop\diagnostic-report-service\target\classes started by ms in C:\Users\ms\OneDrive\Desktop\diagnostic-report-service)
+2026-05-15 15:50:28 DEBUG [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Running with Spring Boot v3.4.4, Spring v6.2.5
+2026-05-15 15:50:28 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - No active profile set, falling back to 1 default profile: "default"
+2026-05-15 15:50:29 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat initialized with port 8098 (http)
+2026-05-15 15:50:29 INFO  [restartedMain] o.a.catalina.core.StandardService requestId= tenantId= hospitalId= branchId= userId= - Starting service [Tomcat]
+2026-05-15 15:50:29 INFO  [restartedMain] o.a.catalina.core.StandardEngine requestId= tenantId= hospitalId= branchId= userId= - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2026-05-15 15:50:29 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring embedded WebApplicationContext
+2026-05-15 15:50:29 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext requestId= tenantId= hospitalId= branchId= userId= - Root WebApplicationContext: initialization completed in 838 ms
+2026-05-15 15:50:29 DEBUG [restartedMain] c.p.d.r.s.JwtAuthenticationFilter requestId= tenantId= hospitalId= branchId= userId= - Filter 'jwtAuthenticationFilter' configured for use
+2026-05-15 15:50:29 WARN  [restartedMain] o.s.b.a.s.s.UserDetailsServiceAutoConfiguration requestId= tenantId= hospitalId= branchId= userId= - 
+
+Using generated security password: 1de63a80-7330-4b17-b3f5-b999fb51e2c8
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-05-15 15:50:29 INFO  [restartedMain] o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer requestId= tenantId= hospitalId= branchId= userId= - Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
+2026-05-15 15:50:30 WARN  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer requestId= tenantId= hospitalId= branchId= userId= - Unable to start LiveReload server
+2026-05-15 15:50:30 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer requestId= tenantId= hospitalId= branchId= userId= - Tomcat started on port 8098 (http) with context path '/'
+2026-05-15 15:50:30 INFO  [restartedMain] c.p.d.r.DiagnosticReportServiceApplication requestId= tenantId= hospitalId= branchId= userId= - Started DiagnosticReportServiceApplication in 1.601 seconds (process running for 76221.491)
+2026-05-15 15:50:30 INFO  [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener requestId= tenantId= hospitalId= branchId= userId= - Condition evaluation unchanged
+2026-05-15 15:54:35 INFO  [http-nio-8098-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] requestId= tenantId= hospitalId= branchId= userId= - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-05-15 15:54:35 INFO  [http-nio-8098-exec-1] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Initializing Servlet 'dispatcherServlet'
+2026-05-15 15:54:35 INFO  [http-nio-8098-exec-1] o.s.web.servlet.DispatcherServlet requestId= tenantId= hospitalId= branchId= userId= - Completed initialization in 244 ms
+2026-05-15 15:54:36 INFO  [http-nio-8098-exec-1] com.zaxxer.hikari.HikariDataSource requestId=5d2eb784-18e6-4e4c-90aa-53e9325db68c tenantId=1 hospitalId=1 branchId=br_main userId=1 - HikariPool-2 - Starting...
+2026-05-15 15:54:36 INFO  [http-nio-8098-exec-1] com.zaxxer.hikari.pool.HikariPool requestId=5d2eb784-18e6-4e4c-90aa-53e9325db68c tenantId=1 hospitalId=1 branchId=br_main userId=1 - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28dc2d8b
+2026-05-15 15:54:36 INFO  [http-nio-8098-exec-1] com.zaxxer.hikari.HikariDataSource requestId=5d2eb784-18e6-4e4c-90aa-53e9325db68c tenantId=1 hospitalId=1 branchId=br_main userId=1 - HikariPool-2 - Start completed.

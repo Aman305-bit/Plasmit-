@@ -1,0 +1,9 @@
+2026-05-14 09:23:37 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10h27m23s312ms98µs100ns).
+2026-05-14 10:07:22 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m48s421ms856µs600ns).
+2026-05-14 15:03:39 WARN  [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m41s682ms591µs200ns).
+2026-05-14 16:45:26 INFO  [RMI TCP Connection(443)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-14 16:45:26 INFO  [RMI TCP Connection(444)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin requestId= tenantId= hospitalId= branchId= userId= - Application shutdown requested.
+2026-05-14 16:45:26 INFO  [RMI TCP Connection(444)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Commencing graceful shutdown. Waiting for active requests to complete
+2026-05-14 16:45:26 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown requestId= tenantId= hospitalId= branchId= userId= - Graceful shutdown complete
+2026-05-14 16:45:27 INFO  [RMI TCP Connection(444)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown initiated...
+2026-05-14 16:45:27 INFO  [RMI TCP Connection(444)-127.0.0.1] com.zaxxer.hikari.HikariDataSource requestId= tenantId= hospitalId= branchId= userId= - HikariPool-1 - Shutdown completed.
